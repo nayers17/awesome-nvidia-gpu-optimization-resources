@@ -1,0 +1,12 @@
+[submodule "DeepLearningExamples"]
+	path = DeepLearningExamples
+	url = https://github.com/NVIDIA/DeepLearningExamples.git
+[submodule "DeepSpeed"]
+	path = DeepSpeed
+	url = https://github.com/microsoft/DeepSpeed.git
+[submodule "apex"]
+	path = apex
+	url = https://github.com/NVIDIA/apex.git
+[submodule "cuda-samples"]
+	path = cuda-samples
+	url = https://github.com/NVIDIA/cuda-samples.git
